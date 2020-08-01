@@ -10,6 +10,5 @@ Step-1: please install python3 by executing [sudo apt install python]
 
 Step-2: Type :  python3 metasploit.py
 
-# metasploit-framework
-
-by click_to_install
+# metasploit-framework 
+# by click_to_install
